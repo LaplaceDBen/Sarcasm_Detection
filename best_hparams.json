@@ -1,0 +1,1 @@
+{"prev_units": 40, "num_layers": 3, "units_0": 58, "recurrent_dropout_0": 0.30000000000000004, "dropout_0": 0.7000000000000001, "activation_0": "tanh", "lr": 0.0007761442956039713, "units_1": 44, "recurrent_dropout_1": 0.7000000000000001, "dropout_1": 0.0, "activation_1": "relu", "units_2": 8, "recurrent_dropout_2": 0.5, "dropout_2": 0.1, "activation_2": "gelu"}
